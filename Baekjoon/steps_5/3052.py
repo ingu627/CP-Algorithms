@@ -11,7 +11,10 @@
 a=[]
 for _ in range(10):
     a.append((int(input()))%42)
-same=0
-for i in range(a):
-    if a[i] ==
-    
+
+a = set(a)
+print(len(a))
+
+# same=0
+# for i in range(a):
+#     if a[i] ==
