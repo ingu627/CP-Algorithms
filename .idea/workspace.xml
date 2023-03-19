@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a8bb83cb-9160-43ea-838d-bb4daff363ab" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_algorithm/cha1.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_algorithm/dijkstra.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coursera-Algorithm/week1/src/HelloGoodbye.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coursera-Algorithm/week1/src/RandomWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_basic/calcpkg/operation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_basic/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/CP-Algorithms.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/CP-Algorithms.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_algorithm/cha5.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/python_algorithm/cha5.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,6 +17,13 @@
   </component>
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -24,6 +35,9 @@
     <option name="version" value="2" />
   </component>
   <component name="ProjectId" id="2GR0lsUlFmCEyvlUgIoX9R6PRTk" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -34,12 +48,41 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;last_opened_file_path&quot;: &quot;/Users/hyunseokjung/Github/CP-Algorithms&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Global Libraries&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CP-Algorithms" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_basic" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_basic/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -51,6 +94,12 @@
       <workItem from="1666336249213" duration="147000" />
       <workItem from="1666336403443" duration="163000" />
       <workItem from="1666884644718" duration="8000" />
+      <workItem from="1671706229106" duration="7888000" />
+      <workItem from="1672069876409" duration="27000" />
+      <workItem from="1672279552599" duration="335000" />
+      <workItem from="1673793147812" duration="204000" />
+      <workItem from="1674813779017" duration="482000" />
+      <workItem from="1679234494305" duration="2000" />
     </task>
     <servers />
   </component>
@@ -67,5 +116,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/CP_Algorithms$main.coverage" NAME="main Coverage Results" MODIFIED="1674813805158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_basic" />
   </component>
 </project>
